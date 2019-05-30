@@ -1,8 +1,5 @@
 # API Deploy
 
-O tempo de deploy que estava aumentando ao longo dos sprints, resolvi desenvolver uma API Python-Flask, para que registrar e armazenar os dados de cada deploy.
-Usei a linguagem Python, para armazenar os dados use SqliteDatabase, por ser bem simples.
-
 ## Requisitos
 * Python
 * Flask
